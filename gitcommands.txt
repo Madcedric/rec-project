@@ -1,0 +1,9 @@
+git init 
+git add .
+git commit -am "initial commit"
+git push orgin master
+git remote add orgin <path of github>
+git push orgin master
+git status 
+git ls remote
+git 
